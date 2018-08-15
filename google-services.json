@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "196817212023",
+    "firebase_url": "https://quickrest-16623.firebaseio.com",
+    "project_id": "quickrest-16623",
+    "storage_bucket": "quickrest-16623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196817212023:android:53209ef67f0a4c4c",
+        "android_client_info": {
+          "package_name": "com.example.hp.quick_rest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196817212023-pd4e342e0uoad512pp9fkdc0hujuiuvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.quick_rest",
+            "certificate_hash": "756a050c1602b04cbd93800dfb1a23332b78bb36"
+          }
+        },
+        {
+          "client_id": "196817212023-rmiueoe9hm7ecsi2tl0q5ps57q3hgcg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1tVFnH1ZNaEaMB9EwLYKORXZywJ9gkdk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196817212023-rmiueoe9hm7ecsi2tl0q5ps57q3hgcg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

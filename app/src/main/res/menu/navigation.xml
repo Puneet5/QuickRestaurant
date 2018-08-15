@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/home"
+        android:title="Home"
+        ></item>
+
+    <item android:id="@+id/myorder"
+        android:title="My orders"
+        ></item>
+
+    <item android:id="@+id/cart"
+        android:title="My Cart"
+        ></item>
+
+    <item android:id="@+id/profile"
+        android:title="My Profile"
+        ></item>
+
+    <item android:id="@+id/favourite"
+        android:title="Favourite"
+        ></item>
+
+    <item android:id="@+id/feedback"
+        android:title="Feedback"
+        ></item>
+
+    <item android:id="@+id/terms"
+        android:title="Terms and Conditions"
+        ></item>
+
+    <item
+        app:actionViewClass="@drawable/round_button"
+        android:id="@+id/logout"
+        android:icon="@mipmap/ic_launcher"
+        android:onClick="Login2.class"
+
+        android:title="LOGOUT" />
+
+</menu>
